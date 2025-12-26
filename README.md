@@ -1,4 +1,4 @@
-# NeuralODE Based Dynamics Learning for Planar Pushing
+# NeuralODE-Based Dynamics Learning for Planar Pushing
 
 ROB 498/599 (WN25) Robot Learning final project.
 
