@@ -1,0 +1,36 @@
+# ===== Jupyter =====
+.ipynb_checkpoints/
+*.nbconvert.*
+*.log
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ===== Virtual envs =====
+.venv/
+venv/
+env/
+conda-env/
+
+# ===== OS files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDEs =====
+.vscode/
+.idea/
+
+# ===== Optional: experiment artifacts (uncomment if you generate these) =====
+# runs/
+# outputs/
+# checkpoints/
+# *.pt
+# *.pth
+# *.npy
+# *.npz
